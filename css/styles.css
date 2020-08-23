@@ -1,0 +1,150 @@
+body {
+  background-color: white;
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  color: #056676;
+  font-family: "Dancing Script", cursive;
+  font-size: 5.625rem;
+  margin: 0;
+}
+
+h2 {
+  color: #056676;
+  font-family: "Roboto", sans-serif;
+}
+
+h3 {
+  color: #5eaaa8;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  color: #5eaaa8;
+  text-decoration: none;
+}
+p{
+  line-height: 2;
+}
+
+.intro-heading {
+  margin: 5rem auto 0 auto;
+}
+
+.subtitle-h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #e8ded2;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  position: relative;
+}
+
+.middle-container {
+  background-color: white;
+}
+
+.bottom-container {
+  background-color:  #e8ded2;
+  padding: 1em;
+}
+
+.des-heading{
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.profile {
+  margin-bottom: 3rem;
+}
+
+.skill-row {
+  margin: 6.25rem auto 10rem auto;
+  width: 50%;
+}
+
+.dotted-break {
+  border-style: dotted;
+  border-width: 0.5em 0 0 0;
+  color: #a3d2ca;
+  margin: 3em auto 3em auto;
+  width: 5%;
+}
+
+.skill-name-h3 {
+  text-align: left;
+}
+
+.skill-des-p {
+  line-height: 2;
+  text-align: left;
+}
+
+.profile-img {
+  border-radius: 100%;
+  width: 14%;
+}
+
+.skill-app-img {
+  float: left;
+  margin-right: 30px;
+  width: 30%;
+}
+
+.skill-3d-img {
+  float: right;
+  margin-left: 30px;
+  width: 30%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 25%;
+  top: 5%;
+}
+
+.bottom-cloud {
+  left: 25%;
+  position: absolute;
+}
+
+.btn{
+background-color:  #e8ded2;
+border-radius: 25px;
+  color: #5eaaa8;
+  padding: 0.8em;
+ text-decoration: none;
+
+}
+.btn:hover{
+  background-color: #f5f0eb;
+}
+
+.btn-div{
+  margin: 2em auto 2em auto;
+}
+.footer-link{
+  color: #056676
+}
+
+.footer-link:hover{
+  color: #089eb5;
+}
+
+.im-span{
+  color: #056676;
+}
+
+.copyright-p{
+  color: #056676;
+}
+.attribute-div{
+  color: #056676;
+}
