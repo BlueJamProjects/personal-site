@@ -43,12 +43,12 @@ p{
 .top-container {
   background-color: #e8ded2;
   padding-top: 1rem;
-  padding-bottom: 3rem;
   position: relative;
 }
 
 .middle-container {
   background-color: white;
+  padding-top: 3rem;
 }
 
 .bottom-container {
